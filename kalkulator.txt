@@ -1,0 +1,34 @@
+-W³¹cz kalkulator
+-wyœwietl 0
+-wprowadŸ pierwsz¹ liczbê: x
+--je¿eli ma byæ u³amek u¿yj (,)
+-wybierz dzia³anie
+--je¿eli (+) dodaj
+--je¿eli (-) odejmij 
+--je¿eli (*) pomnó¿ 
+--je¿eli (/) podziel 
+--je¿eli (%) wykonaj funkcjê procentu
+---wprowadŸ drug¹ liczbê: y
+---je¿eli ma byæ u³amek u¿yj (,)
+---u¿yj (=) aby wyœwietliæ wynik
+---wyœwietl wynik
+--je¿eli (+/-) pomnó¿ przez -1
+---u¿yj (=) aby wyœwietliæ wynik
+---wyœwietl wynik 
+--je¿eli (sqrt) spierwiastkuj
+---u¿yj (=) aby wyœwietliæ wynik
+---wyœwietl wynik 
+--je¿eli (1/x) podziel 1 przez podan¹ liczbê 
+---u¿yj (=) aby wyœwietliæ wynik
+---wyœwietl wynik 
+--je¿eli (MC) kasuj liczbê z pamiêci 
+--je¿eli (MR) wyœwietl liczbê z pamiêci
+--je¿eli (MS) zapisz liczbê w pamiêci kalkulatora
+--je¿eli (M+) dodaj obliczon¹ liczbê do zawartoœci pamiêci
+--je¿eli (M-) odejmij obliczon¹ liczbê do zawartoœci pamiêci
+---wyœwietl wynik
+--je¿eli chcesz skasowaæ ostatni¹ wyœwietlan¹ cyfrê u¿yj (<--)
+--je¿eli chcesz skasowaæ ostatnie dzia³anie u¿yj (C)
+--je¿eli chcesz skasowaæ wszystko u¿yj (CE)
+
+
